@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417731843574",
+    "project_id": "halalscan-d371e",
+    "storage_bucket": "halalscan-d371e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417731843574:android:d1bbf88177d6354d5723d7",
+        "android_client_info": {
+          "package_name": "com.example.halalscan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBanjZsA3ceLlqo3Ygf2cC3VrVRQlGB4sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
